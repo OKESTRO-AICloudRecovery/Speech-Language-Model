@@ -12,20 +12,6 @@ The training module handles speech-language adaptation, and the evaluation modul
 
 ---
 
-# 📂 Repository Structure
-
-📁 project/
- ├── 클라우드 장애극복에 사용되는 AI 어시스턴트의 멀티 모달 정렬을 위한 훈련 모듈.py
- ├── HF_Evaluation.py
- ├── modeling/
- │    └── model.py
- ├── data_loader/
- │    ├── data_loader.py
- ├── model_weight/
- └── Results/
-
----
-
 # ✨ Features (Training Module + Evaluation Module)
 
 ## 🔥 1. Multimodal Speech–Language Training Module
