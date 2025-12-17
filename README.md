@@ -190,6 +190,10 @@ Batch size | 16–64
 Multi-GPU | DeepSpeed ZeRO-2
 
 ---
+# Who We Are
+OKESTRO : http://okestro.com/
+
+---
 
 # 📝 License
 
