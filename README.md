@@ -191,7 +191,7 @@ Multi-GPU | DeepSpeed ZeRO-2
 
 ---
 # Who We Are
-OKESTRO : http://okestro.com/
+http://okestro.com/
 
 ---
 
